@@ -1,0 +1,17 @@
+{
+  "name": "react_vanilla_calendar",
+  "version": "1.0.0",
+  "description": "Refactoring vanilla js calendar to react js calendar",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikita Katechkin",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "snowpack": "^3.8.8"
+  }
+}
